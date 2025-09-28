@@ -52,7 +52,7 @@ This tool was designed to be easily adaptable. If you need to add a new soil par
 **Example:** To add a "Sodium" analysis for data in Column W:
 
 1.  Open the VBA Editor (`Alt + F11`).
-2.  Navigate to the module containing the `GetAnalysisConfigurations` function.
+2.  Navigate to the module containing the `RoundedRectangle2_Click` function.
 3.  Add a new `AllAnalyses(14)` block with the relevant details:
 
 ```vba
